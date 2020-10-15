@@ -1,5 +1,5 @@
 <template>
-  <h1>Style with variables in attrs</h1>
+  <h1>Style with variables in attrs :: Experimental</h1>
   <button @click="onChangeColor">Change Color</button>
   <div class="test"></div>
 </template>
